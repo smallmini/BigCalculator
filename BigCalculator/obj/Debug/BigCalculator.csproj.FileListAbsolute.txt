@@ -1,0 +1,14 @@
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\bin\Debug\BigCalculator.exe.config
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\bin\Debug\BigCalculator.exe
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\bin\Debug\BigCalculator.pdb
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\obj\Debug\BigCalculator.csprojResolveAssemblyReference.cache
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\obj\Debug\MainWindow.g.cs
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\obj\Debug\App.g.cs
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\obj\Debug\BigCalculator_MarkupCompile.cache
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\obj\Debug\BigCalculator_MarkupCompile.lref
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\obj\Debug\MainWindow.baml
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\obj\Debug\BigCalculator.g.resources
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\obj\Debug\BigCalculator.Properties.Resources.resources
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\obj\Debug\BigCalculator.csproj.GenerateResource.Cache
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\obj\Debug\BigCalculator.exe
+F:\programming\WindowsPresentationFoundation\BigCalculator\BigCalculator\obj\Debug\BigCalculator.pdb
